@@ -19,3 +19,4 @@ Hi there 👋 I'm Faiz Aidil Baihaqi<br>I'm passionate about Cybersecurity and C
 [![](https://visitcount.itsvg.in/api?id=Lucienfaiz&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Faizylux.png)](https://tryhackme.com/p/Faizylux)
