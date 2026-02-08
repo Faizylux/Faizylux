@@ -1,3 +1,4 @@
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Faizylux.png)](https://tryhackme.com/p/Faizylux)
 # 💫 About Me:
 Hi there 👋 I'm Faiz Aidil Baihaqi<br>I'm passionate about Cybersecurity and Cloud Computing.<br><br>🔐 Exploring security tools, CTFs, and ethical hacking<br><br>💻 Currently learning Kubernetes & cloud technologies<br><br>🚀 Love solving problems and experimenting with new tech<br><br>🎯 Goal: Becoming a skilled Cyber Security Engineer<br><br>"Code. Break. Secure. Repeat."
 
@@ -19,4 +20,3 @@ Hi there 👋 I'm Faiz Aidil Baihaqi<br>I'm passionate about Cybersecurity and C
 [![](https://visitcount.itsvg.in/api?id=Lucienfaiz&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Faizylux.png)](https://tryhackme.com/p/Faizylux)
